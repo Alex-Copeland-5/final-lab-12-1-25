@@ -1,0 +1,23 @@
+{
+  "name": "final-lab-12-1-25",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Copeland-5/final-lab-12-1-25.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Copeland-5/final-lab-12-1-25/issues"
+  },
+  "homepage": "https://github.com/Alex-Copeland-5/final-lab-12-1-25#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
