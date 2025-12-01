@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/api/classData', (req, res) => {
-    res.send('classData goes here')
+    res.sendFile('stuData.json');
   })
 
 app.listen(3000)
